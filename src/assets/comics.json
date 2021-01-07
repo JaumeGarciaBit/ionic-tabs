@@ -1,0 +1,2244 @@
+{
+   "comics": [
+      {
+         "title" : "Battle",
+         "cover" : "http://localhost:8100/assets/imgs/battle.png"
+      },
+      {
+         "title" : "Commando",
+         "cover" : "http://localhost:8100/assets/imgs/commando.png"
+      },
+      {
+         "title" : "Warlord",
+         "cover" : "http://localhost:8100/assets/imgs/warlord.png"
+      },
+      {
+         "title" : "Victor",
+         "cover" : "http://localhost:8100/assets/imgs/victor.png"
+      },
+      {
+         "title" : "Action",
+         "cover" : "http://localhost:8100/assets/imgs/action.png"
+      },
+      {
+         "title" : "Hotspur",
+         "cover" : "http://localhost:8100/assets/imgs/hotspur.png"
+      },
+      {
+         "title" : "Hornet",
+         "cover" : "http://localhost:8100/assets/imgs/hornet.png"
+      },
+      {
+         "title" : "Tornado",
+         "cover" : "http://localhost:8100/assets/imgs/tornado.png"
+      },
+      {
+         "title" : "War Picture library",
+         "cover" : "http://localhost:8100/assets/imgs/war-picture-library.png"
+      },
+      {
+         "title" : "Bullet",
+         "cover" : "http://localhost:8100/assets/imgs/bullet.png"
+      },
+      {
+         "title" : "Eagle",
+         "cover" : "http://localhost:8100/assets/imgs/eagle.png"
+      },
+      {
+         "title" : "Vulcan",
+         "cover" : "http://localhost:8100/assets/imgs/vulcan.png"
+      },
+      {
+         "title" : "2000AD",
+         "cover" : "http://localhost:8100/assets/imgs/2000ad.png"
+      },
+      {
+         "title" : "Starblazer",
+         "cover" : "http://localhost:8100/assets/imgs/starblazer.png"
+      },
+      {
+         "title" : "Metal Hurlant",
+         "cover" : "http://localhost:8100/assets/imgs/metal-hurlant.png"
+      },
+      {
+         "title" : "Lion",
+         "cover" : "http://localhost:8100/assets/imgs/lion.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "Judge Dredd Megazine",
+         "cover" : "http://localhost:8100/assets/imgs/judge-dredd-megazine.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "Beano",
+         "cover" : "http://localhost:8100/assets/imgs/beano.png"
+      },
+      {
+         "title" : "Dandy",
+         "cover" : "http://localhost:8100/assets/imgs/dandy.png"
+      },
+      {
+         "title" : "Buster",
+         "cover" : "http://localhost:8100/assets/imgs/buster.png"
+      },
+      {
+         "title" : "Whoopee",
+         "cover" : "http://localhost:8100/assets/imgs/whoopee.png"
+      },
+      {
+         "title" : "Krazy",
+         "cover" : "http://localhost:8100/assets/imgs/krazy.png"
+      },
+      {
+         "title" : "Whizzer and Chips",
+         "cover" : "http://localhost:8100/assets/imgs/whizzer-and-chips.png"
+      },
+      {
+         "title" : "Hoot",
+         "cover" : "http://localhost:8100/assets/imgs/hoot.png"
+      },
+      {
+         "title" : "Topper",
+         "cover" : "http://localhost:8100/assets/imgs/topper.png"
+      },
+      {
+         "title" : "Beezer",
+         "cover" : "http://localhost:8100/assets/imgs/beezer.png"
+      },
+      {
+         "title" : "Sparky",
+         "cover" : "http://localhost:8100/assets/imgs/sparky.png"
+      },
+      {
+         "title" : "Tiger",
+         "cover" : "http://localhost:8100/assets/imgs/tiger.png"
+      },
+      {
+         "title" : "Roy of the Rovers",
+         "cover" : "http://localhost:8100/assets/imgs/roy-of-the-rovers.png"
+      },
+      {
+         "title" : "Scorcher",
+         "cover" : "http://localhost:8100/assets/imgs/scorcher.png"
+      },
+      {
+         "title" : "Hurricane",
+         "cover" : "http://localhost:8100/assets/imgs/hurricane.png"
+      },
+      {
+         "title" : "Score ‘n’ Roar",
+         "cover" : "http://localhost:8100/assets/imgs/score-n-roar.png"
+      },
+      {
+         "title" : "Valiant",
+         "cover" : "http://localhost:8100/assets/imgs/valiant.png"
+      },
+      {
+         "title" : "Striker",
+         "cover" : "http://localhost:8100/assets/imgs/striker.png"
+      },
+      {
+         "title" : "Victor",
+         "cover" : "http://localhost:8100/assets/imgs/victor.png"
+      },
+      {
+         "title" : "Lion",
+         "cover" : "http://localhost:8100/assets/imgs/lion.png"
+      },
+      {
+         "title" : "Eagle",
+         "cover" : "http://localhost:8100/assets/imgs/eagle.png"
+      },
+      {
+         "title" : "Battle",
+         "cover" : "http://localhost:8100/assets/imgs/battle.png"
+      },
+      {
+         "title" : "Commando",
+         "cover" : "http://localhost:8100/assets/imgs/commando.png"
+      },
+      {
+         "title" : "Warlord",
+         "cover" : "http://localhost:8100/assets/imgs/warlord.png"
+      },
+      {
+         "title" : "Victor",
+         "cover" : "http://localhost:8100/assets/imgs/victor.png"
+      },
+      {
+         "title" : "Action",
+         "cover" : "http://localhost:8100/assets/imgs/action.png"
+      },
+      {
+         "title" : "Hotspur",
+         "cover" : "http://localhost:8100/assets/imgs/hotspur.png"
+      },
+      {
+         "title" : "Hornet",
+         "cover" : "http://localhost:8100/assets/imgs/hornet.png"
+      },
+      {
+         "title" : "Tornado",
+         "cover" : "http://localhost:8100/assets/imgs/tornado.png"
+      },
+      {
+         "title" : "War Picture library",
+         "cover" : "http://localhost:8100/assets/imgs/war-picture-library.png"
+      },
+      {
+         "title" : "Bullet",
+         "cover" : "http://localhost:8100/assets/imgs/bullet.png"
+      },
+      {
+         "title" : "Eagle",
+         "cover" : "http://localhost:8100/assets/imgs/eagle.png"
+      },
+      {
+         "title" : "Vulcan",
+         "cover" : "http://localhost:8100/assets/imgs/vulcan.png"
+      },
+      {
+         "title" : "2000AD",
+         "cover" : "http://localhost:8100/assets/imgs/2000ad.png"
+      },
+      {
+         "title" : "Starblazer",
+         "cover" : "http://localhost:8100/assets/imgs/starblazer.png"
+      },
+      {
+         "title" : "Metal Hurlant",
+         "cover" : "http://localhost:8100/assets/imgs/metal-hurlant.png"
+      },
+      {
+         "title" : "Lion",
+         "cover" : "http://localhost:8100/assets/imgs/lion.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "Judge Dredd Megazine",
+         "cover" : "http://localhost:8100/assets/imgs/judge-dredd-megazine.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "Beano",
+         "cover" : "http://localhost:8100/assets/imgs/beano.png"
+      },
+      {
+         "title" : "Dandy",
+         "cover" : "http://localhost:8100/assets/imgs/dandy.png"
+      },
+      {
+         "title" : "Buster",
+         "cover" : "http://localhost:8100/assets/imgs/buster.png"
+      },
+      {
+         "title" : "Whoopee",
+         "cover" : "http://localhost:8100/assets/imgs/whoopee.png"
+      },
+      {
+         "title" : "Krazy",
+         "cover" : "http://localhost:8100/assets/imgs/krazy.png"
+      },
+      {
+         "title" : "Whizzer and Chips",
+         "cover" : "http://localhost:8100/assets/imgs/whizzer-and-chips.png"
+      },
+      {
+         "title" : "Hoot",
+         "cover" : "http://localhost:8100/assets/imgs/hoot.png"
+      },
+      {
+         "title" : "Topper",
+         "cover" : "http://localhost:8100/assets/imgs/topper.png"
+      },
+      {
+         "title" : "Beezer",
+         "cover" : "http://localhost:8100/assets/imgs/beezer.png"
+      },
+      {
+         "title" : "Sparky",
+         "cover" : "http://localhost:8100/assets/imgs/sparky.png"
+      },
+      {
+         "title" : "Tiger",
+         "cover" : "http://localhost:8100/assets/imgs/tiger.png"
+      },
+      {
+         "title" : "Roy of the Rovers",
+         "cover" : "http://localhost:8100/assets/imgs/roy-of-the-rovers.png"
+      },
+      {
+         "title" : "Scorcher",
+         "cover" : "http://localhost:8100/assets/imgs/scorcher.png"
+      },
+      {
+         "title" : "Hurricane",
+         "cover" : "http://localhost:8100/assets/imgs/hurricane.png"
+      },
+      {
+         "title" : "Score ‘n’ Roar",
+         "cover" : "http://localhost:8100/assets/imgs/score-n-roar.png"
+      },
+      {
+         "title" : "Valiant",
+         "cover" : "http://localhost:8100/assets/imgs/valiant.png"
+      },
+      {
+         "title" : "Striker",
+         "cover" : "http://localhost:8100/assets/imgs/striker.png"
+      },
+      {
+         "title" : "Victor",
+         "cover" : "http://localhost:8100/assets/imgs/victor.png"
+      },
+      {
+         "title" : "Lion",
+         "cover" : "http://localhost:8100/assets/imgs/lion.png"
+      },
+      {
+         "title" : "Eagle",
+         "cover" : "http://localhost:8100/assets/imgs/eagle.png"
+      },
+      {
+         "title" : "Battle",
+         "cover" : "http://localhost:8100/assets/imgs/battle.png"
+      },
+      {
+         "title" : "Commando",
+         "cover" : "http://localhost:8100/assets/imgs/commando.png"
+      },
+      {
+         "title" : "Warlord",
+         "cover" : "http://localhost:8100/assets/imgs/warlord.png"
+      },
+      {
+         "title" : "Victor",
+         "cover" : "http://localhost:8100/assets/imgs/victor.png"
+      },
+      {
+         "title" : "Action",
+         "cover" : "http://localhost:8100/assets/imgs/action.png"
+      },
+      {
+         "title" : "Hotspur",
+         "cover" : "http://localhost:8100/assets/imgs/hotspur.png"
+      },
+      {
+         "title" : "Hornet",
+         "cover" : "http://localhost:8100/assets/imgs/hornet.png"
+      },
+      {
+         "title" : "Tornado",
+         "cover" : "http://localhost:8100/assets/imgs/tornado.png"
+      },
+      {
+         "title" : "War Picture library",
+         "cover" : "http://localhost:8100/assets/imgs/war-picture-library.png"
+      },
+      {
+         "title" : "Bullet",
+         "cover" : "http://localhost:8100/assets/imgs/bullet.png"
+      },
+      {
+         "title" : "Eagle",
+         "cover" : "http://localhost:8100/assets/imgs/eagle.png"
+      },
+      {
+         "title" : "Vulcan",
+         "cover" : "http://localhost:8100/assets/imgs/vulcan.png"
+      },
+      {
+         "title" : "2000AD",
+         "cover" : "http://localhost:8100/assets/imgs/2000ad.png"
+      },
+      {
+         "title" : "Starblazer",
+         "cover" : "http://localhost:8100/assets/imgs/starblazer.png"
+      },
+      {
+         "title" : "Metal Hurlant",
+         "cover" : "http://localhost:8100/assets/imgs/metal-hurlant.png"
+      },
+      {
+         "title" : "Lion",
+         "cover" : "http://localhost:8100/assets/imgs/lion.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "Judge Dredd Megazine",
+         "cover" : "http://localhost:8100/assets/imgs/judge-dredd-megazine.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "Beano",
+         "cover" : "http://localhost:8100/assets/imgs/beano.png"
+      },
+      {
+         "title" : "Dandy",
+         "cover" : "http://localhost:8100/assets/imgs/dandy.png"
+      },
+      {
+         "title" : "Buster",
+         "cover" : "http://localhost:8100/assets/imgs/buster.png"
+      },
+      {
+         "title" : "Whoopee",
+         "cover" : "http://localhost:8100/assets/imgs/whoopee.png"
+      },
+      {
+         "title" : "Krazy",
+         "cover" : "http://localhost:8100/assets/imgs/krazy.png"
+      },
+      {
+         "title" : "Whizzer and Chips",
+         "cover" : "http://localhost:8100/assets/imgs/whizzer-and-chips.png"
+      },
+      {
+         "title" : "Hoot",
+         "cover" : "http://localhost:8100/assets/imgs/hoot.png"
+      },
+      {
+         "title" : "Topper",
+         "cover" : "http://localhost:8100/assets/imgs/topper.png"
+      },
+      {
+         "title" : "Beezer",
+         "cover" : "http://localhost:8100/assets/imgs/beezer.png"
+      },
+      {
+         "title" : "Sparky",
+         "cover" : "http://localhost:8100/assets/imgs/sparky.png"
+      },
+      {
+         "title" : "Tiger",
+         "cover" : "http://localhost:8100/assets/imgs/tiger.png"
+      },
+      {
+         "title" : "Roy of the Rovers",
+         "cover" : "http://localhost:8100/assets/imgs/roy-of-the-rovers.png"
+      },
+      {
+         "title" : "Scorcher",
+         "cover" : "http://localhost:8100/assets/imgs/scorcher.png"
+      },
+      {
+         "title" : "Hurricane",
+         "cover" : "http://localhost:8100/assets/imgs/hurricane.png"
+      },
+      {
+         "title" : "Score ‘n’ Roar",
+         "cover" : "http://localhost:8100/assets/imgs/score-n-roar.png"
+      },
+      {
+         "title" : "Valiant",
+         "cover" : "http://localhost:8100/assets/imgs/valiant.png"
+      },
+      {
+         "title" : "Striker",
+         "cover" : "http://localhost:8100/assets/imgs/striker.png"
+      },
+      {
+         "title" : "Victor",
+         "cover" : "http://localhost:8100/assets/imgs/victor.png"
+      },
+      {
+         "title" : "Lion",
+         "cover" : "http://localhost:8100/assets/imgs/lion.png"
+      },
+      {
+         "title" : "Eagle",
+         "cover" : "http://localhost:8100/assets/imgs/eagle.png"
+      },
+      {
+         "title" : "Battle",
+         "cover" : "http://localhost:8100/assets/imgs/battle.png"
+      },
+      {
+         "title" : "Commando",
+         "cover" : "http://localhost:8100/assets/imgs/commando.png"
+      },
+      {
+         "title" : "Warlord",
+         "cover" : "http://localhost:8100/assets/imgs/warlord.png"
+      },
+      {
+         "title" : "Victor",
+         "cover" : "http://localhost:8100/assets/imgs/victor.png"
+      },
+      {
+         "title" : "Action",
+         "cover" : "http://localhost:8100/assets/imgs/action.png"
+      },
+      {
+         "title" : "Hotspur",
+         "cover" : "http://localhost:8100/assets/imgs/hotspur.png"
+      },
+      {
+         "title" : "Hornet",
+         "cover" : "http://localhost:8100/assets/imgs/hornet.png"
+      },
+      {
+         "title" : "Tornado",
+         "cover" : "http://localhost:8100/assets/imgs/tornado.png"
+      },
+      {
+         "title" : "War Picture library",
+         "cover" : "http://localhost:8100/assets/imgs/war-picture-library.png"
+      },
+      {
+         "title" : "Bullet",
+         "cover" : "http://localhost:8100/assets/imgs/bullet.png"
+      },
+      {
+         "title" : "Eagle",
+         "cover" : "http://localhost:8100/assets/imgs/eagle.png"
+      },
+      {
+         "title" : "Vulcan",
+         "cover" : "http://localhost:8100/assets/imgs/vulcan.png"
+      },
+      {
+         "title" : "2000AD",
+         "cover" : "http://localhost:8100/assets/imgs/2000ad.png"
+      },
+      {
+         "title" : "Starblazer",
+         "cover" : "http://localhost:8100/assets/imgs/starblazer.png"
+      },
+      {
+         "title" : "Metal Hurlant",
+         "cover" : "http://localhost:8100/assets/imgs/metal-hurlant.png"
+      },
+      {
+         "title" : "Lion",
+         "cover" : "http://localhost:8100/assets/imgs/lion.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "Judge Dredd Megazine",
+         "cover" : "http://localhost:8100/assets/imgs/judge-dredd-megazine.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "Beano",
+         "cover" : "http://localhost:8100/assets/imgs/beano.png"
+      },
+      {
+         "title" : "Dandy",
+         "cover" : "http://localhost:8100/assets/imgs/dandy.png"
+      },
+      {
+         "title" : "Buster",
+         "cover" : "http://localhost:8100/assets/imgs/buster.png"
+      },
+      {
+         "title" : "Whoopee",
+         "cover" : "http://localhost:8100/assets/imgs/whoopee.png"
+      },
+      {
+         "title" : "Krazy",
+         "cover" : "http://localhost:8100/assets/imgs/krazy.png"
+      },
+      {
+         "title" : "Whizzer and Chips",
+         "cover" : "http://localhost:8100/assets/imgs/whizzer-and-chips.png"
+      },
+      {
+         "title" : "Hoot",
+         "cover" : "http://localhost:8100/assets/imgs/hoot.png"
+      },
+      {
+         "title" : "Topper",
+         "cover" : "http://localhost:8100/assets/imgs/topper.png"
+      },
+      {
+         "title" : "Beezer",
+         "cover" : "http://localhost:8100/assets/imgs/beezer.png"
+      },
+      {
+         "title" : "Sparky",
+         "cover" : "http://localhost:8100/assets/imgs/sparky.png"
+      },
+      {
+         "title" : "Tiger",
+         "cover" : "http://localhost:8100/assets/imgs/tiger.png"
+      },
+      {
+         "title" : "Roy of the Rovers",
+         "cover" : "http://localhost:8100/assets/imgs/roy-of-the-rovers.png"
+      },
+      {
+         "title" : "Scorcher",
+         "cover" : "http://localhost:8100/assets/imgs/scorcher.png"
+      },
+      {
+         "title" : "Hurricane",
+         "cover" : "http://localhost:8100/assets/imgs/hurricane.png"
+      },
+      {
+         "title" : "Score ‘n’ Roar",
+         "cover" : "http://localhost:8100/assets/imgs/score-n-roar.png"
+      },
+      {
+         "title" : "Valiant",
+         "cover" : "http://localhost:8100/assets/imgs/valiant.png"
+      },
+      {
+         "title" : "Striker",
+         "cover" : "http://localhost:8100/assets/imgs/striker.png"
+      },
+      {
+         "title" : "Victor",
+         "cover" : "http://localhost:8100/assets/imgs/victor.png"
+      },
+      {
+         "title" : "Lion",
+         "cover" : "http://localhost:8100/assets/imgs/lion.png"
+      },
+      {
+         "title" : "Eagle",
+         "cover" : "http://localhost:8100/assets/imgs/eagle.png"
+      },
+      {
+         "title" : "Battle",
+         "cover" : "http://localhost:8100/assets/imgs/battle.png"
+      },
+      {
+         "title" : "Commando",
+         "cover" : "http://localhost:8100/assets/imgs/commando.png"
+      },
+      {
+         "title" : "Warlord",
+         "cover" : "http://localhost:8100/assets/imgs/warlord.png"
+      },
+      {
+         "title" : "Victor",
+         "cover" : "http://localhost:8100/assets/imgs/victor.png"
+      },
+      {
+         "title" : "Action",
+         "cover" : "http://localhost:8100/assets/imgs/action.png"
+      },
+      {
+         "title" : "Hotspur",
+         "cover" : "http://localhost:8100/assets/imgs/hotspur.png"
+      },
+      {
+         "title" : "Hornet",
+         "cover" : "http://localhost:8100/assets/imgs/hornet.png"
+      },
+      {
+         "title" : "Tornado",
+         "cover" : "http://localhost:8100/assets/imgs/tornado.png"
+      },
+      {
+         "title" : "War Picture library",
+         "cover" : "http://localhost:8100/assets/imgs/war-picture-library.png"
+      },
+      {
+         "title" : "Bullet",
+         "cover" : "http://localhost:8100/assets/imgs/bullet.png"
+      },
+      {
+         "title" : "Eagle",
+         "cover" : "http://localhost:8100/assets/imgs/eagle.png"
+      },
+      {
+         "title" : "Vulcan",
+         "cover" : "http://localhost:8100/assets/imgs/vulcan.png"
+      },
+      {
+         "title" : "2000AD",
+         "cover" : "http://localhost:8100/assets/imgs/2000ad.png"
+      },
+      {
+         "title" : "Starblazer",
+         "cover" : "http://localhost:8100/assets/imgs/starblazer.png"
+      },
+      {
+         "title" : "Metal Hurlant",
+         "cover" : "http://localhost:8100/assets/imgs/metal-hurlant.png"
+      },
+      {
+         "title" : "Lion",
+         "cover" : "http://localhost:8100/assets/imgs/lion.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "Judge Dredd Megazine",
+         "cover" : "http://localhost:8100/assets/imgs/judge-dredd-megazine.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "Beano",
+         "cover" : "http://localhost:8100/assets/imgs/beano.png"
+      },
+      {
+         "title" : "Dandy",
+         "cover" : "http://localhost:8100/assets/imgs/dandy.png"
+      },
+      {
+         "title" : "Buster",
+         "cover" : "http://localhost:8100/assets/imgs/buster.png"
+      },
+      {
+         "title" : "Whoopee",
+         "cover" : "http://localhost:8100/assets/imgs/whoopee.png"
+      },
+      {
+         "title" : "Krazy",
+         "cover" : "http://localhost:8100/assets/imgs/krazy.png"
+      },
+      {
+         "title" : "Whizzer and Chips",
+         "cover" : "http://localhost:8100/assets/imgs/whizzer-and-chips.png"
+      },
+      {
+         "title" : "Hoot",
+         "cover" : "http://localhost:8100/assets/imgs/hoot.png"
+      },
+      {
+         "title" : "Topper",
+         "cover" : "http://localhost:8100/assets/imgs/topper.png"
+      },
+      {
+         "title" : "Beezer",
+         "cover" : "http://localhost:8100/assets/imgs/beezer.png"
+      },
+      {
+         "title" : "Sparky",
+         "cover" : "http://localhost:8100/assets/imgs/sparky.png"
+      },
+      {
+         "title" : "Tiger",
+         "cover" : "http://localhost:8100/assets/imgs/tiger.png"
+      },
+      {
+         "title" : "Roy of the Rovers",
+         "cover" : "http://localhost:8100/assets/imgs/roy-of-the-rovers.png"
+      },
+      {
+         "title" : "Scorcher",
+         "cover" : "http://localhost:8100/assets/imgs/scorcher.png"
+      },
+      {
+         "title" : "Hurricane",
+         "cover" : "http://localhost:8100/assets/imgs/hurricane.png"
+      },
+      {
+         "title" : "Score ‘n’ Roar",
+         "cover" : "http://localhost:8100/assets/imgs/score-n-roar.png"
+      },
+      {
+         "title" : "Valiant",
+         "cover" : "http://localhost:8100/assets/imgs/valiant.png"
+      },
+      {
+         "title" : "Striker",
+         "cover" : "http://localhost:8100/assets/imgs/striker.png"
+      },
+      {
+         "title" : "Victor",
+         "cover" : "http://localhost:8100/assets/imgs/victor.png"
+      },
+      {
+         "title" : "Lion",
+         "cover" : "http://localhost:8100/assets/imgs/lion.png"
+      },
+      {
+         "title" : "Eagle",
+         "cover" : "http://localhost:8100/assets/imgs/eagle.png"
+      },
+      {
+         "title" : "Battle",
+         "cover" : "http://localhost:8100/assets/imgs/battle.png"
+      },
+      {
+         "title" : "Commando",
+         "cover" : "http://localhost:8100/assets/imgs/commando.png"
+      },
+      {
+         "title" : "Warlord",
+         "cover" : "http://localhost:8100/assets/imgs/warlord.png"
+      },
+      {
+         "title" : "Victor",
+         "cover" : "http://localhost:8100/assets/imgs/victor.png"
+      },
+      {
+         "title" : "Action",
+         "cover" : "http://localhost:8100/assets/imgs/action.png"
+      },
+      {
+         "title" : "Hotspur",
+         "cover" : "http://localhost:8100/assets/imgs/hotspur.png"
+      },
+      {
+         "title" : "Hornet",
+         "cover" : "http://localhost:8100/assets/imgs/hornet.png"
+      },
+      {
+         "title" : "Tornado",
+         "cover" : "http://localhost:8100/assets/imgs/tornado.png"
+      },
+      {
+         "title" : "War Picture library",
+         "cover" : "http://localhost:8100/assets/imgs/war-picture-library.png"
+      },
+      {
+         "title" : "Bullet",
+         "cover" : "http://localhost:8100/assets/imgs/bullet.png"
+      },
+      {
+         "title" : "Eagle",
+         "cover" : "http://localhost:8100/assets/imgs/eagle.png"
+      },
+      {
+         "title" : "Vulcan",
+         "cover" : "http://localhost:8100/assets/imgs/vulcan.png"
+      },
+      {
+         "title" : "2000AD",
+         "cover" : "http://localhost:8100/assets/imgs/2000ad.png"
+      },
+      {
+         "title" : "Starblazer",
+         "cover" : "http://localhost:8100/assets/imgs/starblazer.png"
+      },
+      {
+         "title" : "Metal Hurlant",
+         "cover" : "http://localhost:8100/assets/imgs/metal-hurlant.png"
+      },
+      {
+         "title" : "Lion",
+         "cover" : "http://localhost:8100/assets/imgs/lion.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "Judge Dredd Megazine",
+         "cover" : "http://localhost:8100/assets/imgs/judge-dredd-megazine.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "Beano",
+         "cover" : "http://localhost:8100/assets/imgs/beano.png"
+      },
+      {
+         "title" : "Dandy",
+         "cover" : "http://localhost:8100/assets/imgs/dandy.png"
+      },
+      {
+         "title" : "Buster",
+         "cover" : "http://localhost:8100/assets/imgs/buster.png"
+      },
+      {
+         "title" : "Whoopee",
+         "cover" : "http://localhost:8100/assets/imgs/whoopee.png"
+      },
+      {
+         "title" : "Krazy",
+         "cover" : "http://localhost:8100/assets/imgs/krazy.png"
+      },
+      {
+         "title" : "Whizzer and Chips",
+         "cover" : "http://localhost:8100/assets/imgs/whizzer-and-chips.png"
+      },
+      {
+         "title" : "Hoot",
+         "cover" : "http://localhost:8100/assets/imgs/hoot.png"
+      },
+      {
+         "title" : "Topper",
+         "cover" : "http://localhost:8100/assets/imgs/topper.png"
+      },
+      {
+         "title" : "Beezer",
+         "cover" : "http://localhost:8100/assets/imgs/beezer.png"
+      },
+      {
+         "title" : "Sparky",
+         "cover" : "http://localhost:8100/assets/imgs/sparky.png"
+      },
+      {
+         "title" : "Tiger",
+         "cover" : "http://localhost:8100/assets/imgs/tiger.png"
+      },
+      {
+         "title" : "Roy of the Rovers",
+         "cover" : "http://localhost:8100/assets/imgs/roy-of-the-rovers.png"
+      },
+      {
+         "title" : "Scorcher",
+         "cover" : "http://localhost:8100/assets/imgs/scorcher.png"
+      },
+      {
+         "title" : "Hurricane",
+         "cover" : "http://localhost:8100/assets/imgs/hurricane.png"
+      },
+      {
+         "title" : "Score ‘n’ Roar",
+         "cover" : "http://localhost:8100/assets/imgs/score-n-roar.png"
+      },
+      {
+         "title" : "Valiant",
+         "cover" : "http://localhost:8100/assets/imgs/valiant.png"
+      },
+      {
+         "title" : "Striker",
+         "cover" : "http://localhost:8100/assets/imgs/striker.png"
+      },
+      {
+         "title" : "Victor",
+         "cover" : "http://localhost:8100/assets/imgs/victor.png"
+      },
+      {
+         "title" : "Lion",
+         "cover" : "http://localhost:8100/assets/imgs/lion.png"
+      },
+      {
+         "title" : "Eagle",
+         "cover" : "http://localhost:8100/assets/imgs/eagle.png"
+      },
+      {
+         "title" : "Battle",
+         "cover" : "http://localhost:8100/assets/imgs/battle.png"
+      },
+      {
+         "title" : "Commando",
+         "cover" : "http://localhost:8100/assets/imgs/commando.png"
+      },
+      {
+         "title" : "Warlord",
+         "cover" : "http://localhost:8100/assets/imgs/warlord.png"
+      },
+      {
+         "title" : "Victor",
+         "cover" : "http://localhost:8100/assets/imgs/victor.png"
+      },
+      {
+         "title" : "Action",
+         "cover" : "http://localhost:8100/assets/imgs/action.png"
+      },
+      {
+         "title" : "Hotspur",
+         "cover" : "http://localhost:8100/assets/imgs/hotspur.png"
+      },
+      {
+         "title" : "Hornet",
+         "cover" : "http://localhost:8100/assets/imgs/hornet.png"
+      },
+      {
+         "title" : "Tornado",
+         "cover" : "http://localhost:8100/assets/imgs/tornado.png"
+      },
+      {
+         "title" : "War Picture library",
+         "cover" : "http://localhost:8100/assets/imgs/war-picture-library.png"
+      },
+      {
+         "title" : "Bullet",
+         "cover" : "http://localhost:8100/assets/imgs/bullet.png"
+      },
+      {
+         "title" : "Eagle",
+         "cover" : "http://localhost:8100/assets/imgs/eagle.png"
+      },
+      {
+         "title" : "Vulcan",
+         "cover" : "http://localhost:8100/assets/imgs/vulcan.png"
+      },
+      {
+         "title" : "2000AD",
+         "cover" : "http://localhost:8100/assets/imgs/2000ad.png"
+      },
+      {
+         "title" : "Starblazer",
+         "cover" : "http://localhost:8100/assets/imgs/starblazer.png"
+      },
+      {
+         "title" : "Metal Hurlant",
+         "cover" : "http://localhost:8100/assets/imgs/metal-hurlant.png"
+      },
+      {
+         "title" : "Lion",
+         "cover" : "http://localhost:8100/assets/imgs/lion.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "Judge Dredd Megazine",
+         "cover" : "http://localhost:8100/assets/imgs/judge-dredd-megazine.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "Beano",
+         "cover" : "http://localhost:8100/assets/imgs/beano.png"
+      },
+      {
+         "title" : "Dandy",
+         "cover" : "http://localhost:8100/assets/imgs/dandy.png"
+      },
+      {
+         "title" : "Buster",
+         "cover" : "http://localhost:8100/assets/imgs/buster.png"
+      },
+      {
+         "title" : "Whoopee",
+         "cover" : "http://localhost:8100/assets/imgs/whoopee.png"
+      },
+      {
+         "title" : "Krazy",
+         "cover" : "http://localhost:8100/assets/imgs/krazy.png"
+      },
+      {
+         "title" : "Whizzer and Chips",
+         "cover" : "http://localhost:8100/assets/imgs/whizzer-and-chips.png"
+      },
+      {
+         "title" : "Hoot",
+         "cover" : "http://localhost:8100/assets/imgs/hoot.png"
+      },
+      {
+         "title" : "Topper",
+         "cover" : "http://localhost:8100/assets/imgs/topper.png"
+      },
+      {
+         "title" : "Beezer",
+         "cover" : "http://localhost:8100/assets/imgs/beezer.png"
+      },
+      {
+         "title" : "Sparky",
+         "cover" : "http://localhost:8100/assets/imgs/sparky.png"
+      },
+      {
+         "title" : "Tiger",
+         "cover" : "http://localhost:8100/assets/imgs/tiger.png"
+      },
+      {
+         "title" : "Roy of the Rovers",
+         "cover" : "http://localhost:8100/assets/imgs/roy-of-the-rovers.png"
+      },
+      {
+         "title" : "Scorcher",
+         "cover" : "http://localhost:8100/assets/imgs/scorcher.png"
+      },
+      {
+         "title" : "Hurricane",
+         "cover" : "http://localhost:8100/assets/imgs/hurricane.png"
+      },
+      {
+         "title" : "Score ‘n’ Roar",
+         "cover" : "http://localhost:8100/assets/imgs/score-n-roar.png"
+      },
+      {
+         "title" : "Valiant",
+         "cover" : "http://localhost:8100/assets/imgs/valiant.png"
+      },
+      {
+         "title" : "Striker",
+         "cover" : "http://localhost:8100/assets/imgs/striker.png"
+      },
+      {
+         "title" : "Victor",
+         "cover" : "http://localhost:8100/assets/imgs/victor.png"
+      },
+      {
+         "title" : "Lion",
+         "cover" : "http://localhost:8100/assets/imgs/lion.png"
+      },
+      {
+         "title" : "Eagle",
+         "cover" : "http://localhost:8100/assets/imgs/eagle.png"
+      },
+      {
+         "title" : "Battle",
+         "cover" : "http://localhost:8100/assets/imgs/battle.png"
+      },
+      {
+         "title" : "Commando",
+         "cover" : "http://localhost:8100/assets/imgs/commando.png"
+      },
+      {
+         "title" : "Warlord",
+         "cover" : "http://localhost:8100/assets/imgs/warlord.png"
+      },
+      {
+         "title" : "Victor",
+         "cover" : "http://localhost:8100/assets/imgs/victor.png"
+      },
+      {
+         "title" : "Action",
+         "cover" : "http://localhost:8100/assets/imgs/action.png"
+      },
+      {
+         "title" : "Hotspur",
+         "cover" : "http://localhost:8100/assets/imgs/hotspur.png"
+      },
+      {
+         "title" : "Hornet",
+         "cover" : "http://localhost:8100/assets/imgs/hornet.png"
+      },
+      {
+         "title" : "Tornado",
+         "cover" : "http://localhost:8100/assets/imgs/tornado.png"
+      },
+      {
+         "title" : "War Picture library",
+         "cover" : "http://localhost:8100/assets/imgs/war-picture-library.png"
+      },
+      {
+         "title" : "Bullet",
+         "cover" : "http://localhost:8100/assets/imgs/bullet.png"
+      },
+      {
+         "title" : "Eagle",
+         "cover" : "http://localhost:8100/assets/imgs/eagle.png"
+      },
+      {
+         "title" : "Vulcan",
+         "cover" : "http://localhost:8100/assets/imgs/vulcan.png"
+      },
+      {
+         "title" : "2000AD",
+         "cover" : "http://localhost:8100/assets/imgs/2000ad.png"
+      },
+      {
+         "title" : "Starblazer",
+         "cover" : "http://localhost:8100/assets/imgs/starblazer.png"
+      },
+      {
+         "title" : "Metal Hurlant",
+         "cover" : "http://localhost:8100/assets/imgs/metal-hurlant.png"
+      },
+      {
+         "title" : "Lion",
+         "cover" : "http://localhost:8100/assets/imgs/lion.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "Judge Dredd Megazine",
+         "cover" : "http://localhost:8100/assets/imgs/judge-dredd-megazine.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "Beano",
+         "cover" : "http://localhost:8100/assets/imgs/beano.png"
+      },
+      {
+         "title" : "Dandy",
+         "cover" : "http://localhost:8100/assets/imgs/dandy.png"
+      },
+      {
+         "title" : "Buster",
+         "cover" : "http://localhost:8100/assets/imgs/buster.png"
+      },
+      {
+         "title" : "Whoopee",
+         "cover" : "http://localhost:8100/assets/imgs/whoopee.png"
+      },
+      {
+         "title" : "Krazy",
+         "cover" : "http://localhost:8100/assets/imgs/krazy.png"
+      },
+      {
+         "title" : "Whizzer and Chips",
+         "cover" : "http://localhost:8100/assets/imgs/whizzer-and-chips.png"
+      },
+      {
+         "title" : "Hoot",
+         "cover" : "http://localhost:8100/assets/imgs/hoot.png"
+      },
+      {
+         "title" : "Topper",
+         "cover" : "http://localhost:8100/assets/imgs/topper.png"
+      },
+      {
+         "title" : "Beezer",
+         "cover" : "http://localhost:8100/assets/imgs/beezer.png"
+      },
+      {
+         "title" : "Sparky",
+         "cover" : "http://localhost:8100/assets/imgs/sparky.png"
+      },
+      {
+         "title" : "Tiger",
+         "cover" : "http://localhost:8100/assets/imgs/tiger.png"
+      },
+      {
+         "title" : "Roy of the Rovers",
+         "cover" : "http://localhost:8100/assets/imgs/roy-of-the-rovers.png"
+      },
+      {
+         "title" : "Scorcher",
+         "cover" : "http://localhost:8100/assets/imgs/scorcher.png"
+      },
+      {
+         "title" : "Hurricane",
+         "cover" : "http://localhost:8100/assets/imgs/hurricane.png"
+      },
+      {
+         "title" : "Score ‘n’ Roar",
+         "cover" : "http://localhost:8100/assets/imgs/score-n-roar.png"
+      },
+      {
+         "title" : "Valiant",
+         "cover" : "http://localhost:8100/assets/imgs/valiant.png"
+      },
+      {
+         "title" : "Striker",
+         "cover" : "http://localhost:8100/assets/imgs/striker.png"
+      },
+      {
+         "title" : "Victor",
+         "cover" : "http://localhost:8100/assets/imgs/victor.png"
+      },
+      {
+         "title" : "Lion",
+         "cover" : "http://localhost:8100/assets/imgs/lion.png"
+      },
+      {
+         "title" : "Eagle",
+         "cover" : "http://localhost:8100/assets/imgs/eagle.png"
+      },
+      {
+         "title" : "Battle",
+         "cover" : "http://localhost:8100/assets/imgs/battle.png"
+      },
+      {
+         "title" : "Commando",
+         "cover" : "http://localhost:8100/assets/imgs/commando.png"
+      },
+      {
+         "title" : "Warlord",
+         "cover" : "http://localhost:8100/assets/imgs/warlord.png"
+      },
+      {
+         "title" : "Victor",
+         "cover" : "http://localhost:8100/assets/imgs/victor.png"
+      },
+      {
+         "title" : "Action",
+         "cover" : "http://localhost:8100/assets/imgs/action.png"
+      },
+      {
+         "title" : "Hotspur",
+         "cover" : "http://localhost:8100/assets/imgs/hotspur.png"
+      },
+      {
+         "title" : "Hornet",
+         "cover" : "http://localhost:8100/assets/imgs/hornet.png"
+      },
+      {
+         "title" : "Tornado",
+         "cover" : "http://localhost:8100/assets/imgs/tornado.png"
+      },
+      {
+         "title" : "War Picture library",
+         "cover" : "http://localhost:8100/assets/imgs/war-picture-library.png"
+      },
+      {
+         "title" : "Bullet",
+         "cover" : "http://localhost:8100/assets/imgs/bullet.png"
+      },
+      {
+         "title" : "Eagle",
+         "cover" : "http://localhost:8100/assets/imgs/eagle.png"
+      },
+      {
+         "title" : "Vulcan",
+         "cover" : "http://localhost:8100/assets/imgs/vulcan.png"
+      },
+      {
+         "title" : "2000AD",
+         "cover" : "http://localhost:8100/assets/imgs/2000ad.png"
+      },
+      {
+         "title" : "Starblazer",
+         "cover" : "http://localhost:8100/assets/imgs/starblazer.png"
+      },
+      {
+         "title" : "Metal Hurlant",
+         "cover" : "http://localhost:8100/assets/imgs/metal-hurlant.png"
+      },
+      {
+         "title" : "Lion",
+         "cover" : "http://localhost:8100/assets/imgs/lion.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "Judge Dredd Megazine",
+         "cover" : "http://localhost:8100/assets/imgs/judge-dredd-megazine.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "Beano",
+         "cover" : "http://localhost:8100/assets/imgs/beano.png"
+      },
+      {
+         "title" : "Dandy",
+         "cover" : "http://localhost:8100/assets/imgs/dandy.png"
+      },
+      {
+         "title" : "Buster",
+         "cover" : "http://localhost:8100/assets/imgs/buster.png"
+      },
+      {
+         "title" : "Whoopee",
+         "cover" : "http://localhost:8100/assets/imgs/whoopee.png"
+      },
+      {
+         "title" : "Krazy",
+         "cover" : "http://localhost:8100/assets/imgs/krazy.png"
+      },
+      {
+         "title" : "Whizzer and Chips",
+         "cover" : "http://localhost:8100/assets/imgs/whizzer-and-chips.png"
+      },
+      {
+         "title" : "Hoot",
+         "cover" : "http://localhost:8100/assets/imgs/hoot.png"
+      },
+      {
+         "title" : "Topper",
+         "cover" : "http://localhost:8100/assets/imgs/topper.png"
+      },
+      {
+         "title" : "Beezer",
+         "cover" : "http://localhost:8100/assets/imgs/beezer.png"
+      },
+      {
+         "title" : "Sparky",
+         "cover" : "http://localhost:8100/assets/imgs/sparky.png"
+      },
+      {
+         "title" : "Tiger",
+         "cover" : "http://localhost:8100/assets/imgs/tiger.png"
+      },
+      {
+         "title" : "Roy of the Rovers",
+         "cover" : "http://localhost:8100/assets/imgs/roy-of-the-rovers.png"
+      },
+      {
+         "title" : "Scorcher",
+         "cover" : "http://localhost:8100/assets/imgs/scorcher.png"
+      },
+      {
+         "title" : "Hurricane",
+         "cover" : "http://localhost:8100/assets/imgs/hurricane.png"
+      },
+      {
+         "title" : "Score ‘n’ Roar",
+         "cover" : "http://localhost:8100/assets/imgs/score-n-roar.png"
+      },
+      {
+         "title" : "Valiant",
+         "cover" : "http://localhost:8100/assets/imgs/valiant.png"
+      },
+      {
+         "title" : "Striker",
+         "cover" : "http://localhost:8100/assets/imgs/striker.png"
+      },
+      {
+         "title" : "Victor",
+         "cover" : "http://localhost:8100/assets/imgs/victor.png"
+      },
+      {
+         "title" : "Lion",
+         "cover" : "http://localhost:8100/assets/imgs/lion.png"
+      },
+      {
+         "title" : "Eagle",
+         "cover" : "http://localhost:8100/assets/imgs/eagle.png"
+      },
+      {
+         "title" : "Battle",
+         "cover" : "http://localhost:8100/assets/imgs/battle.png"
+      },
+      {
+         "title" : "Commando",
+         "cover" : "http://localhost:8100/assets/imgs/commando.png"
+      },
+      {
+         "title" : "Warlord",
+         "cover" : "http://localhost:8100/assets/imgs/warlord.png"
+      },
+      {
+         "title" : "Victor",
+         "cover" : "http://localhost:8100/assets/imgs/victor.png"
+      },
+      {
+         "title" : "Action",
+         "cover" : "http://localhost:8100/assets/imgs/action.png"
+      },
+      {
+         "title" : "Hotspur",
+         "cover" : "http://localhost:8100/assets/imgs/hotspur.png"
+      },
+      {
+         "title" : "Hornet",
+         "cover" : "http://localhost:8100/assets/imgs/hornet.png"
+      },
+      {
+         "title" : "Tornado",
+         "cover" : "http://localhost:8100/assets/imgs/tornado.png"
+      },
+      {
+         "title" : "War Picture library",
+         "cover" : "http://localhost:8100/assets/imgs/war-picture-library.png"
+      },
+      {
+         "title" : "Bullet",
+         "cover" : "http://localhost:8100/assets/imgs/bullet.png"
+      },
+      {
+         "title" : "Eagle",
+         "cover" : "http://localhost:8100/assets/imgs/eagle.png"
+      },
+      {
+         "title" : "Vulcan",
+         "cover" : "http://localhost:8100/assets/imgs/vulcan.png"
+      },
+      {
+         "title" : "2000AD",
+         "cover" : "http://localhost:8100/assets/imgs/2000ad.png"
+      },
+      {
+         "title" : "Starblazer",
+         "cover" : "http://localhost:8100/assets/imgs/starblazer.png"
+      },
+      {
+         "title" : "Metal Hurlant",
+         "cover" : "http://localhost:8100/assets/imgs/metal-hurlant.png"
+      },
+      {
+         "title" : "Lion",
+         "cover" : "http://localhost:8100/assets/imgs/lion.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "Judge Dredd Megazine",
+         "cover" : "http://localhost:8100/assets/imgs/judge-dredd-megazine.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "Beano",
+         "cover" : "http://localhost:8100/assets/imgs/beano.png"
+      },
+      {
+         "title" : "Dandy",
+         "cover" : "http://localhost:8100/assets/imgs/dandy.png"
+      },
+      {
+         "title" : "Buster",
+         "cover" : "http://localhost:8100/assets/imgs/buster.png"
+      },
+      {
+         "title" : "Whoopee",
+         "cover" : "http://localhost:8100/assets/imgs/whoopee.png"
+      },
+      {
+         "title" : "Krazy",
+         "cover" : "http://localhost:8100/assets/imgs/krazy.png"
+      },
+      {
+         "title" : "Whizzer and Chips",
+         "cover" : "http://localhost:8100/assets/imgs/whizzer-and-chips.png"
+      },
+      {
+         "title" : "Hoot",
+         "cover" : "http://localhost:8100/assets/imgs/hoot.png"
+      },
+      {
+         "title" : "Topper",
+         "cover" : "http://localhost:8100/assets/imgs/topper.png"
+      },
+      {
+         "title" : "Beezer",
+         "cover" : "http://localhost:8100/assets/imgs/beezer.png"
+      },
+      {
+         "title" : "Sparky",
+         "cover" : "http://localhost:8100/assets/imgs/sparky.png"
+      },
+      {
+         "title" : "Tiger",
+         "cover" : "http://localhost:8100/assets/imgs/tiger.png"
+      },
+      {
+         "title" : "Roy of the Rovers",
+         "cover" : "http://localhost:8100/assets/imgs/roy-of-the-rovers.png"
+      },
+      {
+         "title" : "Scorcher",
+         "cover" : "http://localhost:8100/assets/imgs/scorcher.png"
+      },
+      {
+         "title" : "Hurricane",
+         "cover" : "http://localhost:8100/assets/imgs/hurricane.png"
+      },
+      {
+         "title" : "Score ‘n’ Roar",
+         "cover" : "http://localhost:8100/assets/imgs/score-n-roar.png"
+      },
+      {
+         "title" : "Valiant",
+         "cover" : "http://localhost:8100/assets/imgs/valiant.png"
+      },
+      {
+         "title" : "Striker",
+         "cover" : "http://localhost:8100/assets/imgs/striker.png"
+      },
+      {
+         "title" : "Victor",
+         "cover" : "http://localhost:8100/assets/imgs/victor.png"
+      },
+      {
+         "title" : "Lion",
+         "cover" : "http://localhost:8100/assets/imgs/lion.png"
+      },
+      {
+         "title" : "Eagle",
+         "cover" : "http://localhost:8100/assets/imgs/eagle.png"
+      },
+      {
+         "title" : "Battle",
+         "cover" : "http://localhost:8100/assets/imgs/battle.png"
+      },
+      {
+         "title" : "Commando",
+         "cover" : "http://localhost:8100/assets/imgs/commando.png"
+      },
+      {
+         "title" : "Warlord",
+         "cover" : "http://localhost:8100/assets/imgs/warlord.png"
+      },
+      {
+         "title" : "Victor",
+         "cover" : "http://localhost:8100/assets/imgs/victor.png"
+      },
+      {
+         "title" : "Action",
+         "cover" : "http://localhost:8100/assets/imgs/action.png"
+      },
+      {
+         "title" : "Hotspur",
+         "cover" : "http://localhost:8100/assets/imgs/hotspur.png"
+      },
+      {
+         "title" : "Hornet",
+         "cover" : "http://localhost:8100/assets/imgs/hornet.png"
+      },
+      {
+         "title" : "Tornado",
+         "cover" : "http://localhost:8100/assets/imgs/tornado.png"
+      },
+      {
+         "title" : "War Picture library",
+         "cover" : "http://localhost:8100/assets/imgs/war-picture-library.png"
+      },
+      {
+         "title" : "Bullet",
+         "cover" : "http://localhost:8100/assets/imgs/bullet.png"
+      },
+      {
+         "title" : "Eagle",
+         "cover" : "http://localhost:8100/assets/imgs/eagle.png"
+      },
+      {
+         "title" : "Vulcan",
+         "cover" : "http://localhost:8100/assets/imgs/vulcan.png"
+      },
+      {
+         "title" : "2000AD",
+         "cover" : "http://localhost:8100/assets/imgs/2000ad.png"
+      },
+      {
+         "title" : "Starblazer",
+         "cover" : "http://localhost:8100/assets/imgs/starblazer.png"
+      },
+      {
+         "title" : "Metal Hurlant",
+         "cover" : "http://localhost:8100/assets/imgs/metal-hurlant.png"
+      },
+      {
+         "title" : "Lion",
+         "cover" : "http://localhost:8100/assets/imgs/lion.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "Judge Dredd Megazine",
+         "cover" : "http://localhost:8100/assets/imgs/judge-dredd-megazine.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "Beano",
+         "cover" : "http://localhost:8100/assets/imgs/beano.png"
+      },
+      {
+         "title" : "Dandy",
+         "cover" : "http://localhost:8100/assets/imgs/dandy.png"
+      },
+      {
+         "title" : "Buster",
+         "cover" : "http://localhost:8100/assets/imgs/buster.png"
+      },
+      {
+         "title" : "Whoopee",
+         "cover" : "http://localhost:8100/assets/imgs/whoopee.png"
+      },
+      {
+         "title" : "Krazy",
+         "cover" : "http://localhost:8100/assets/imgs/krazy.png"
+      },
+      {
+         "title" : "Whizzer and Chips",
+         "cover" : "http://localhost:8100/assets/imgs/whizzer-and-chips.png"
+      },
+      {
+         "title" : "Hoot",
+         "cover" : "http://localhost:8100/assets/imgs/hoot.png"
+      },
+      {
+         "title" : "Topper",
+         "cover" : "http://localhost:8100/assets/imgs/topper.png"
+      },
+      {
+         "title" : "Beezer",
+         "cover" : "http://localhost:8100/assets/imgs/beezer.png"
+      },
+      {
+         "title" : "Sparky",
+         "cover" : "http://localhost:8100/assets/imgs/sparky.png"
+      },
+      {
+         "title" : "Tiger",
+         "cover" : "http://localhost:8100/assets/imgs/tiger.png"
+      },
+      {
+         "title" : "Roy of the Rovers",
+         "cover" : "http://localhost:8100/assets/imgs/roy-of-the-rovers.png"
+      },
+      {
+         "title" : "Scorcher",
+         "cover" : "http://localhost:8100/assets/imgs/scorcher.png"
+      },
+      {
+         "title" : "Hurricane",
+         "cover" : "http://localhost:8100/assets/imgs/hurricane.png"
+      },
+      {
+         "title" : "Score ‘n’ Roar",
+         "cover" : "http://localhost:8100/assets/imgs/score-n-roar.png"
+      },
+      {
+         "title" : "Valiant",
+         "cover" : "http://localhost:8100/assets/imgs/valiant.png"
+      },
+      {
+         "title" : "Striker",
+         "cover" : "http://localhost:8100/assets/imgs/striker.png"
+      },
+      {
+         "title" : "Victor",
+         "cover" : "http://localhost:8100/assets/imgs/victor.png"
+      },
+      {
+         "title" : "Lion",
+         "cover" : "http://localhost:8100/assets/imgs/lion.png"
+      },
+      {
+         "title" : "Eagle",
+         "cover" : "http://localhost:8100/assets/imgs/eagle.png"
+      },
+      {
+         "title" : "Battle",
+         "cover" : "http://localhost:8100/assets/imgs/battle.png"
+      },
+      {
+         "title" : "Commando",
+         "cover" : "http://localhost:8100/assets/imgs/commando.png"
+      },
+      {
+         "title" : "Warlord",
+         "cover" : "http://localhost:8100/assets/imgs/warlord.png"
+      },
+      {
+         "title" : "Victor",
+         "cover" : "http://localhost:8100/assets/imgs/victor.png"
+      },
+      {
+         "title" : "Action",
+         "cover" : "http://localhost:8100/assets/imgs/action.png"
+      },
+      {
+         "title" : "Hotspur",
+         "cover" : "http://localhost:8100/assets/imgs/hotspur.png"
+      },
+      {
+         "title" : "Hornet",
+         "cover" : "http://localhost:8100/assets/imgs/hornet.png"
+      },
+      {
+         "title" : "Tornado",
+         "cover" : "http://localhost:8100/assets/imgs/tornado.png"
+      },
+      {
+         "title" : "War Picture library",
+         "cover" : "http://localhost:8100/assets/imgs/war-picture-library.png"
+      },
+      {
+         "title" : "Bullet",
+         "cover" : "http://localhost:8100/assets/imgs/bullet.png"
+      },
+      {
+         "title" : "Eagle",
+         "cover" : "http://localhost:8100/assets/imgs/eagle.png"
+      },
+      {
+         "title" : "Vulcan",
+         "cover" : "http://localhost:8100/assets/imgs/vulcan.png"
+      },
+      {
+         "title" : "2000AD",
+         "cover" : "http://localhost:8100/assets/imgs/2000ad.png"
+      },
+      {
+         "title" : "Starblazer",
+         "cover" : "http://localhost:8100/assets/imgs/starblazer.png"
+      },
+      {
+         "title" : "Metal Hurlant",
+         "cover" : "http://localhost:8100/assets/imgs/metal-hurlant.png"
+      },
+      {
+         "title" : "Lion",
+         "cover" : "http://localhost:8100/assets/imgs/lion.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "Judge Dredd Megazine",
+         "cover" : "http://localhost:8100/assets/imgs/judge-dredd-megazine.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "Beano",
+         "cover" : "http://localhost:8100/assets/imgs/beano.png"
+      },
+      {
+         "title" : "Dandy",
+         "cover" : "http://localhost:8100/assets/imgs/dandy.png"
+      },
+      {
+         "title" : "Buster",
+         "cover" : "http://localhost:8100/assets/imgs/buster.png"
+      },
+      {
+         "title" : "Whoopee",
+         "cover" : "http://localhost:8100/assets/imgs/whoopee.png"
+      },
+      {
+         "title" : "Krazy",
+         "cover" : "http://localhost:8100/assets/imgs/krazy.png"
+      },
+      {
+         "title" : "Whizzer and Chips",
+         "cover" : "http://localhost:8100/assets/imgs/whizzer-and-chips.png"
+      },
+      {
+         "title" : "Hoot",
+         "cover" : "http://localhost:8100/assets/imgs/hoot.png"
+      },
+      {
+         "title" : "Topper",
+         "cover" : "http://localhost:8100/assets/imgs/topper.png"
+      },
+      {
+         "title" : "Beezer",
+         "cover" : "http://localhost:8100/assets/imgs/beezer.png"
+      },
+      {
+         "title" : "Sparky",
+         "cover" : "http://localhost:8100/assets/imgs/sparky.png"
+      },
+      {
+         "title" : "Tiger",
+         "cover" : "http://localhost:8100/assets/imgs/tiger.png"
+      },
+      {
+         "title" : "Roy of the Rovers",
+         "cover" : "http://localhost:8100/assets/imgs/roy-of-the-rovers.png"
+      },
+      {
+         "title" : "Scorcher",
+         "cover" : "http://localhost:8100/assets/imgs/scorcher.png"
+      },
+      {
+         "title" : "Hurricane",
+         "cover" : "http://localhost:8100/assets/imgs/hurricane.png"
+      },
+      {
+         "title" : "Score ‘n’ Roar",
+         "cover" : "http://localhost:8100/assets/imgs/score-n-roar.png"
+      },
+      {
+         "title" : "Valiant",
+         "cover" : "http://localhost:8100/assets/imgs/valiant.png"
+      },
+      {
+         "title" : "Striker",
+         "cover" : "http://localhost:8100/assets/imgs/striker.png"
+      },
+      {
+         "title" : "Victor",
+         "cover" : "http://localhost:8100/assets/imgs/victor.png"
+      },
+      {
+         "title" : "Lion",
+         "cover" : "http://localhost:8100/assets/imgs/lion.png"
+      },
+      {
+         "title" : "Eagle",
+         "cover" : "http://localhost:8100/assets/imgs/eagle.png"
+      },
+      {
+         "title" : "Battle",
+         "cover" : "http://localhost:8100/assets/imgs/battle.png"
+      },
+      {
+         "title" : "Commando",
+         "cover" : "http://localhost:8100/assets/imgs/commando.png"
+      },
+      {
+         "title" : "Warlord",
+         "cover" : "http://localhost:8100/assets/imgs/warlord.png"
+      },
+      {
+         "title" : "Victor",
+         "cover" : "http://localhost:8100/assets/imgs/victor.png"
+      },
+      {
+         "title" : "Action",
+         "cover" : "http://localhost:8100/assets/imgs/action.png"
+      },
+      {
+         "title" : "Hotspur",
+         "cover" : "http://localhost:8100/assets/imgs/hotspur.png"
+      },
+      {
+         "title" : "Hornet",
+         "cover" : "http://localhost:8100/assets/imgs/hornet.png"
+      },
+      {
+         "title" : "Tornado",
+         "cover" : "http://localhost:8100/assets/imgs/tornado.png"
+      },
+      {
+         "title" : "War Picture library",
+         "cover" : "http://localhost:8100/assets/imgs/war-picture-library.png"
+      },
+      {
+         "title" : "Bullet",
+         "cover" : "http://localhost:8100/assets/imgs/bullet.png"
+      },
+      {
+         "title" : "Eagle",
+         "cover" : "http://localhost:8100/assets/imgs/eagle.png"
+      },
+      {
+         "title" : "Vulcan",
+         "cover" : "http://localhost:8100/assets/imgs/vulcan.png"
+      },
+      {
+         "title" : "2000AD",
+         "cover" : "http://localhost:8100/assets/imgs/2000ad.png"
+      },
+      {
+         "title" : "Starblazer",
+         "cover" : "http://localhost:8100/assets/imgs/starblazer.png"
+      },
+      {
+         "title" : "Metal Hurlant",
+         "cover" : "http://localhost:8100/assets/imgs/metal-hurlant.png"
+      },
+      {
+         "title" : "Lion",
+         "cover" : "http://localhost:8100/assets/imgs/lion.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "Judge Dredd Megazine",
+         "cover" : "http://localhost:8100/assets/imgs/judge-dredd-megazine.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "Beano",
+         "cover" : "http://localhost:8100/assets/imgs/beano.png"
+      },
+      {
+         "title" : "Dandy",
+         "cover" : "http://localhost:8100/assets/imgs/dandy.png"
+      },
+      {
+         "title" : "Buster",
+         "cover" : "http://localhost:8100/assets/imgs/buster.png"
+      },
+      {
+         "title" : "Whoopee",
+         "cover" : "http://localhost:8100/assets/imgs/whoopee.png"
+      },
+      {
+         "title" : "Krazy",
+         "cover" : "http://localhost:8100/assets/imgs/krazy.png"
+      },
+      {
+         "title" : "Whizzer and Chips",
+         "cover" : "http://localhost:8100/assets/imgs/whizzer-and-chips.png"
+      },
+      {
+         "title" : "Hoot",
+         "cover" : "http://localhost:8100/assets/imgs/hoot.png"
+      },
+      {
+         "title" : "Topper",
+         "cover" : "http://localhost:8100/assets/imgs/topper.png"
+      },
+      {
+         "title" : "Beezer",
+         "cover" : "http://localhost:8100/assets/imgs/beezer.png"
+      },
+      {
+         "title" : "Sparky",
+         "cover" : "http://localhost:8100/assets/imgs/sparky.png"
+      },
+      {
+         "title" : "Tiger",
+         "cover" : "http://localhost:8100/assets/imgs/tiger.png"
+      },
+      {
+         "title" : "Roy of the Rovers",
+         "cover" : "http://localhost:8100/assets/imgs/roy-of-the-rovers.png"
+      },
+      {
+         "title" : "Scorcher",
+         "cover" : "http://localhost:8100/assets/imgs/scorcher.png"
+      },
+      {
+         "title" : "Hurricane",
+         "cover" : "http://localhost:8100/assets/imgs/hurricane.png"
+      },
+      {
+         "title" : "Score ‘n’ Roar",
+         "cover" : "http://localhost:8100/assets/imgs/score-n-roar.png"
+      },
+      {
+         "title" : "Valiant",
+         "cover" : "http://localhost:8100/assets/imgs/valiant.png"
+      },
+      {
+         "title" : "Striker",
+         "cover" : "http://localhost:8100/assets/imgs/striker.png"
+      },
+      {
+         "title" : "Victor",
+         "cover" : "http://localhost:8100/assets/imgs/victor.png"
+      },
+      {
+         "title" : "Lion",
+         "cover" : "http://localhost:8100/assets/imgs/lion.png"
+      },
+      {
+         "title" : "Eagle",
+         "cover" : "http://localhost:8100/assets/imgs/eagle.png"
+      },
+      {
+         "title" : "Battle",
+         "cover" : "http://localhost:8100/assets/imgs/battle.png"
+      },
+      {
+         "title" : "Commando",
+         "cover" : "http://localhost:8100/assets/imgs/commando.png"
+      },
+      {
+         "title" : "Warlord",
+         "cover" : "http://localhost:8100/assets/imgs/warlord.png"
+      },
+      {
+         "title" : "Victor",
+         "cover" : "http://localhost:8100/assets/imgs/victor.png"
+      },
+      {
+         "title" : "Action",
+         "cover" : "http://localhost:8100/assets/imgs/action.png"
+      },
+      {
+         "title" : "Hotspur",
+         "cover" : "http://localhost:8100/assets/imgs/hotspur.png"
+      },
+      {
+         "title" : "Hornet",
+         "cover" : "http://localhost:8100/assets/imgs/hornet.png"
+      },
+      {
+         "title" : "Tornado",
+         "cover" : "http://localhost:8100/assets/imgs/tornado.png"
+      },
+      {
+         "title" : "War Picture library",
+         "cover" : "http://localhost:8100/assets/imgs/war-picture-library.png"
+      },
+      {
+         "title" : "Bullet",
+         "cover" : "http://localhost:8100/assets/imgs/bullet.png"
+      },
+      {
+         "title" : "Eagle",
+         "cover" : "http://localhost:8100/assets/imgs/eagle.png"
+      },
+      {
+         "title" : "Vulcan",
+         "cover" : "http://localhost:8100/assets/imgs/vulcan.png"
+      },
+      {
+         "title" : "2000AD",
+         "cover" : "http://localhost:8100/assets/imgs/2000ad.png"
+      },
+      {
+         "title" : "Starblazer",
+         "cover" : "http://localhost:8100/assets/imgs/starblazer.png"
+      },
+      {
+         "title" : "Metal Hurlant",
+         "cover" : "http://localhost:8100/assets/imgs/metal-hurlant.png"
+      },
+      {
+         "title" : "Lion",
+         "cover" : "http://localhost:8100/assets/imgs/lion.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "Judge Dredd Megazine",
+         "cover" : "http://localhost:8100/assets/imgs/judge-dredd-megazine.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "TV21",
+         "cover" : "http://localhost:8100/assets/imgs/tv-21.png"
+      },
+      {
+         "title" : "Beano",
+         "cover" : "http://localhost:8100/assets/imgs/beano.png"
+      },
+      {
+         "title" : "Dandy",
+         "cover" : "http://localhost:8100/assets/imgs/dandy.png"
+      },
+      {
+         "title" : "Buster",
+         "cover" : "http://localhost:8100/assets/imgs/buster.png"
+      },
+      {
+         "title" : "Whoopee",
+         "cover" : "http://localhost:8100/assets/imgs/whoopee.png"
+      },
+      {
+         "title" : "Krazy",
+         "cover" : "http://localhost:8100/assets/imgs/krazy.png"
+      },
+      {
+         "title" : "Whizzer and Chips",
+         "cover" : "http://localhost:8100/assets/imgs/whizzer-and-chips.png"
+      },
+      {
+         "title" : "Hoot",
+         "cover" : "http://localhost:8100/assets/imgs/hoot.png"
+      },
+      {
+         "title" : "Topper",
+         "cover" : "http://localhost:8100/assets/imgs/topper.png"
+      },
+      {
+         "title" : "Beezer",
+         "cover" : "http://localhost:8100/assets/imgs/beezer.png"
+      },
+      {
+         "title" : "Sparky",
+         "cover" : "http://localhost:8100/assets/imgs/sparky.png"
+      },
+      {
+         "title" : "Tiger",
+         "cover" : "http://localhost:8100/assets/imgs/tiger.png"
+      },
+      {
+         "title" : "Roy of the Rovers",
+         "cover" : "http://localhost:8100/assets/imgs/roy-of-the-rovers.png"
+      },
+      {
+         "title" : "Scorcher",
+         "cover" : "http://localhost:8100/assets/imgs/scorcher.png"
+      },
+      {
+         "title" : "Hurricane",
+         "cover" : "http://localhost:8100/assets/imgs/hurricane.png"
+      },
+      {
+         "title" : "Score ‘n’ Roar",
+         "cover" : "http://localhost:8100/assets/imgs/score-n-roar.png"
+      },
+      {
+         "title" : "Valiant",
+         "cover" : "http://localhost:8100/assets/imgs/valiant.png"
+      },
+      {
+         "title" : "Striker",
+         "cover" : "http://localhost:8100/assets/imgs/striker.png"
+      },
+      {
+         "title" : "Victor",
+         "cover" : "http://localhost:8100/assets/imgs/victor.png"
+      },
+      {
+         "title" : "Lion",
+         "cover" : "http://localhost:8100/assets/imgs/lion.png"
+      },
+      {
+         "title" : "Eagle",
+         "cover" : "http://localhost:8100/assets/imgs/eagle.png"
+      }
+   ]
+}
